@@ -7,7 +7,7 @@
 
 ## 1️⃣ Support Bracket (حامل التثبيت)
 
-![Support Bracket](images/support_bracket.png)
+<img width="788" height="664" alt="Image" src="https://github.com/user-attachments/assets/fdc5646d-c298-4da6-86f4-a472745ac89c" />
 
 **الوصف:**  
 حامل ميكانيكي يُستخدم لتثبيت الأجزاء المتحركة باستخدام محور أو مسمار.
@@ -26,7 +26,7 @@
 
 ## 2️⃣ Circular Flange (القطعة الدائرية – الفلنجة)
 
-![Circular Flange](images/circular_flange.png)
+<img width="898" height="686" alt="Image" src="https://github.com/user-attachments/assets/fe44d4f0-5d6b-4b28-ae1a-877e0ecd63c0" />
 
 **الوصف:**  
 قطعة دائرية (Flange) تحتوي على ثقوب موزعة دائريًا مع بروز مركزي.
@@ -47,7 +47,7 @@
 
 ## 3️⃣ Step Block (قطعة هندسية متدرجة)
 
-![Step Block](images/step_block.png)
+<img width="851" height="706" alt="Image" src="https://github.com/user-attachments/assets/371061c3-e598-456c-b528-0bb732fe361b" />
 
 **الوصف:**  
 قطعة هندسية متدرجة تُستخدم للتدريب على إنشاء الأشكال ثلاثية الأبعاد المعقدة.
